@@ -106,7 +106,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.8 }}
           >
             <a
-               href="/Manav_Kumar_Resume.pdf"
+               href="/Manav_Kumar.pdf"
                download
                  className="px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg font-medium hover:shadow-lg hover:shadow-blue-500/50 transition-all duration-300 flex items-center gap-2"
             >
