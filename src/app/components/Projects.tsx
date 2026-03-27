@@ -28,8 +28,8 @@ export function Projects() {
         { label: 'Revenue', value: '£8.5M' },
       ],
       gradient: 'from-indigo-500 to-purple-600',
-      github: 'https://lnkd.in/giYEiFD8',
-      demo: 'https://lnkd.in/gAQBbRrE',
+      github: 'https://github.com/Manav9334/customer-segmentation-analysis',
+      demo: 'https://customer-segmentation-analysis-manav.streamlit.app/',
       highlight: true,
     },
 
