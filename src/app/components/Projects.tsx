@@ -52,7 +52,7 @@ export function Projects() {
       ],
       gradient: 'from-pink-500 to-red-600',
       github: 'https://github.com/Manav9334/Campuscash',
-      demo: "https://campuscash-zeta.vercel.app",
+      demo: "https://campuscash-zeta.vercel.app/",
     },
 
     {
@@ -172,7 +172,7 @@ export function Projects() {
                   )}
 
                   {project.demo && (
-                    <a href={project.demo} target="_blank"
+                    <a href={project.demo} target="_blank" rel="noopener noreferrer"
                       className="flex-1 flex items-center justify-center gap-2 px-4 py-2 bg-blue-500/20 rounded-lg hover:bg-blue-500/30">
                       <ExternalLink className="w-4 h-4" />
                       Live Demo
