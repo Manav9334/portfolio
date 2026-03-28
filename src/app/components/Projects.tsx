@@ -52,7 +52,7 @@ export function Projects() {
       ],
       gradient: 'from-pink-500 to-red-600',
       github: 'https://github.com/Manav9334/Campuscash',
-      demo: "https://campuscash-zeta.vercel.app/",
+      demo: 'https://campuscash-zeta.vercel.app/',
       highlight: true,
     },
 
